@@ -36,17 +36,23 @@ extra_css:
   - assets/extra.css
 theme:
   name: material
+  logo: assets/icon.svg
+  favicon: assets/icon-128.png
   palette:
     - media: '(prefers-color-scheme: dark)'
       scheme: slate
       toggle:
         icon: material/weather-night
         name: Switch to light mode
+      primary: custom
+      accent: custom
     - media: '(prefers-color-scheme: light)'
       scheme: default
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
+      primary: white
+      accent: white
   features:
     - content.action.edit
     - content.action.view

@@ -2,9 +2,36 @@
 .float-right {
   float: right;
 }
+
 .mr-1 {
   margin-right: 0.25rem;
 }
+
 .mr-2 {
   margin-right: 0.5rem;
+}
+
+:root {
+  --md-primary-fg-color: black;
+  --md-primary-bg-color: white;
+  --md-primary-bg-color--light: white;
+  --md-accent-fg-color: hsla(24, 100%, 50%, 0.70);
+  --md-accent-fg-color--transparent: white;
+  --md-accent-bg-color: white;
+}
+
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: hsl(24, 100%, 50%);
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 215;
+  --md-default-bg-color: #1f2937;
+  --md-typeset-color: white;
+  --md-typeset-a-color: hsl(24, 100%, 50%);
+  --md-primary-fg-color--dark: var(--md-footer-bg-color--dark);
+
+  .md-typeset .md-button {
+    color: unset;
+  }
 }

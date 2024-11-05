@@ -1,6 +1,7 @@
-# Subtitle Anything!
 
-Add AI generated subtitles to any video playing in your browser!
+<img src="assets/logo.svg" height=100 alt="Subtitle Anything!" />
+
+Add AI generated subtitles to any video (or audio) playing in your browser!
 
 Subtitle Anything is:
 
@@ -16,9 +17,9 @@ Subtitle Anything is:
 
     > No site specific support: One extension. Any tab that plays audio. 99 languages plus autodetect.
 
-If you find Subtitle Anything useful and would like to see it brought to your browser's extension store, or to have new features, please show your support by leaving a star!
+If you find Subtitle Anything useful and would like to see it brought to your browser's extension store, or to have new features, please show your support by leaving a star.
 
-Every star is greatly appreciated.
+Every star is appreciated! :star:
 
 #####
 
