@@ -10,7 +10,7 @@
     The first time you run the extension at each quality setting, it'll take a few seconds extra to download and load the machine learning model.
 
 !!! warning
-    [Reload the extension if you're having issues](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#reload)
+    If you're having issues, [follow these instructions to reload the extension](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#reload). It's a quick and easy way to fix Chrome tabs not capturing, AI model errors, etc.
 
 !!! note
     You can also check the extension's logs by clicking on the "service worker" link in the same card that lets you reload the extension.

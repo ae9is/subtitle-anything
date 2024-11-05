@@ -2,7 +2,7 @@
 
 ## Requirements
 
-  - An update to date version of Chrome :material-information-outline:{ title='Version 116 or newer, your mileage may vary' }
+  - An update to date version of Chrome, or Chrome-like browser :material-information-outline:{ title='Version 116 or newer, your mileage may vary' }
   - A decent graphics card :material-information-outline:{ title='At the very least, 2GB free VRAM depending on model size' }
 
 ## Install
