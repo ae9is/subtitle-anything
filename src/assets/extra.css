@@ -22,6 +22,26 @@
 
 [data-md-color-scheme="default"] {
   --md-typeset-a-color: hsl(24, 100%, 50%);
+
+  .md-typeset .md-button {
+    color: black;
+    border-color: black;
+  }
+
+  .md-typeset .md-button:hover {
+    background-color: hsla(0, 0%, 50%, 0.5);
+  }
+
+  .md-typeset .md-button--primary {
+    color: white;
+    background-color: var(--md-typeset-a-color);
+    border-color: var(--md-typeset-a-color);
+  }
+
+  .md-typeset .md-button--primary:hover {
+    background-color: hsl(24, 100%, 50%, 0.70);
+    border-color: var(--md-typeset-a-color);
+  }
 }
 
 [data-md-color-scheme="slate"] {
@@ -32,6 +52,22 @@
   --md-primary-fg-color--dark: var(--md-footer-bg-color--dark);
 
   .md-typeset .md-button {
+    color: white;
+    border-color: white;
+  }
+
+  .md-typeset .md-button:hover {
+    background-color: hsla(0, 0%, 100%, 0.30);
+  }
+
+  .md-typeset .md-button--primary {
     color: unset;
+    background-color: var(--md-typeset-a-color);
+    border-color: var(--md-typeset-a-color);
+  }
+
+  .md-typeset .md-button--primary:hover {
+    background-color: hsl(24, 100%, 50%, 0.70);
+    border-color: var(--md-typeset-a-color);
   }
 }
