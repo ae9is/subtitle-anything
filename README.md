@@ -3,7 +3,7 @@
 <hr />
 <br />
 
-<img src="src/assets/logo.svg" height=100 alt="Subtitle Anything!" />
+<img src="docs/src/assets/logo.svg" height=100 alt="Subtitle Anything!" />
 
 <hr />
 <br />
