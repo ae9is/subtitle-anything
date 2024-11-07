@@ -21,9 +21,9 @@
 
 ### Language
 
-If a specific language is selected to transcribe, subtitles will be in that language's native script.
+If a specific language is selected to transcribe, subtitles will be in that language's native script. Currently, language autodetection only works for translations to English.
 
-If "automatically detect" is selected, the model will take a little longer to load. It also may struggle with bilingual speakers switching between languages quickly!
+If "automatically detect" is selected, the model may take a little longer to load. It also may struggle with bilingual speakers switching between languages quickly!
 
 ### Task
 
@@ -36,6 +36,6 @@ The tool uses [Whisper](https://github.com/openai/whisper) to transcribe and tra
 
 For the best results use the biggest model your GPU has memory for, and can run quick enough to keep the live subtitles up to date.
 
-From fastest (worst) to best (slowest): tiny < base < small.
+From fastest (worst) to slowest (best quality): tiny < base < small.
 
 ###
