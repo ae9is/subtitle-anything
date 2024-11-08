@@ -2,12 +2,12 @@
 
 ## Requirements
 
-  - An update to date version of Chrome, or Chrome-like browser :material-information-outline:{ title='Version 116 or newer, your mileage may vary' }
+  - An up-to-date version of Chrome, or Chrome-like browser :material-information-outline:{ title='Version 116 or newer, your mileage may vary' }
   - A decent graphics card :material-information-outline:{ title='At the very least, 2GB free VRAM depending on model size' }
 
 ## Install
 
-  1. Download the release ZIP file and unzip it.
+  1. [Download the release ZIP file](https://github.com/ae9is/subtitle-anything/releases) and unzip it.
 
   2. [Follow these instructions to load the extension in Chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
