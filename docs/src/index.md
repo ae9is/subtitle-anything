@@ -7,7 +7,7 @@ Subtitle Anything is:
 
 1. Free
 
-    > No free credits to start and then a monthly payment. If your device supports it, you can run it forever.
+    > No "free trial then monthly payment". If your device supports it, you can run it forever. Free.
 
 2. Private
 

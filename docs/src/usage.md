@@ -27,8 +27,8 @@ If "automatically detect" is selected, the model may take a little longer to loa
 
 ### Task
 
-- Transcribe: Live caption the audio in the original language
-- Translate: Create English only subtitles for the audio
+- Transcribe: Live caption audio in its original language. (Speech to Text)
+- Translate: Create English only subtitles for audio. (Speech to Text + Translate)
 
 ### Model
 
