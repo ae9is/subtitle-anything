@@ -8,11 +8,13 @@
 <hr />
 <br />
 
-<img src="docs/src/assets/thumbs/subtitle-anything-options.webp" height=100 alt="Options page" />
-<img src="docs/src/assets/thumbs/live-call-with-friends.webp" height=100 alt="Demo screenshot, live stream" />
-<img src="docs/src/assets/thumbs/pink-pony.webp" height=100 alt="Demo screenshot, music video" />
-<img src="docs/src/assets/thumbs/sumo.webp" height=100 alt="Demo screenshot, sports" />
-<img src="docs/src/assets/thumbs/salmon-and-potato-salad.webp" height=100 alt="Demo screenshot, movie" />
+<p>
+  <img src="docs/src/assets/thumbs/subtitle-anything-options.webp" height=100 alt="Options page" />
+  <img src="docs/src/assets/thumbs/live-call-with-friends.webp" height=100 alt="Demo screenshot, live stream" />
+  <img src="docs/src/assets/thumbs/pink-pony.webp" height=100 alt="Demo screenshot, music video" />
+  <img src="docs/src/assets/thumbs/sumo.webp" height=100 alt="Demo screenshot, sports" />
+  <img src="docs/src/assets/thumbs/salmon-and-potato-salad.webp" height=100 alt="Demo screenshot, movie" />
+</p>
 
 <br />
 
