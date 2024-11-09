@@ -9,9 +9,13 @@ edit_uri: edit/main/docs/src/
 docs_dir: src
 plugins:
   - search
+  - glightbox:
+      skip_classes:
+        - skip-lightbox
 markdown_extensions:
   - admonition
   - attr_list
+  - md_in_html
   - toc:
       permalink: true
   - pymdownx.emoji:

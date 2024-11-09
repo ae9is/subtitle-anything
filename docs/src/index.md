@@ -1,5 +1,13 @@
+![Subtitle Anything!](assets/logo.svg){: style="height:102px;width:423px" .skip-lightbox }
 
-<img src="assets/logo.svg" height=100 alt="Subtitle Anything!" />
+<hr />
+
+<div style="padding: 1px;"></div>
+
+![Demo screenshot, live stream](assets/thumbs/live-call-with-friends.webp){: style="height: 100px; width: 178px" }
+![Demo screenshot, music video](assets/thumbs/pink-pony.webp){: style="height: 100px; width: 178px" }
+![Demo screenshot, sports](assets/thumbs/sumo.webp){: style="height: 100px; width: 178px" }
+![Demo screenshot, movie](assets/thumbs/salmon-and-potato-salad.webp){: style="height: 100px; width: 178px" }
 
 Add AI generated subtitles to any video (or audio) playing in your browser!
 
@@ -27,3 +35,5 @@ Every star is appreciated! :star:
 [Learn more](usage.md){ .md-button .float-right .mr-2 }
 
 ###
+
+

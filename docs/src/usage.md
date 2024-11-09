@@ -19,6 +19,8 @@
 
 - Right click the toolbar button to navigate to the extension Options page.
 
+![Options page](assets/thumbs/subtitle-anything-options.webp){: style="height: 100px; width: 112px; border: 1px solid black;" }
+
 ### Language
 
 If a specific language is selected to transcribe, subtitles will be in that language's native script. Currently, language autodetection only works for translations to English.

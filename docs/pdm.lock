@@ -5,7 +5,7 @@
 groups = ["default", "dev"]
 strategy = ["inherit_metadata"]
 lock_version = "4.5.0"
-content_hash = "sha256:90922a53440c9342b8eb6f078c0a37c7069e37855e2811e78030d53c78dd5af4"
+content_hash = "sha256:ca208ce153e46a9819397e8617dbc1f3bc03cd9f8c83220620b49f0f058ca1fa"
 
 [[metadata.targets]]
 requires_python = ">=3.10,<=3.13"
@@ -297,6 +297,16 @@ dependencies = [
 files = [
     {file = "mkdocs_get_deps-0.2.0-py3-none-any.whl", hash = "sha256:2bf11d0b133e77a0dd036abeeb06dec8775e46efa526dc70667d8863eefc6134"},
     {file = "mkdocs_get_deps-0.2.0.tar.gz", hash = "sha256:162b3d129c7fad9b19abfdcb9c1458a651628e4b1dea628ac68790fb3061c60c"},
+]
+
+[[package]]
+name = "mkdocs-glightbox"
+version = "0.4.0"
+summary = "MkDocs plugin supports image lightbox with GLightbox."
+groups = ["default"]
+files = [
+    {file = "mkdocs-glightbox-0.4.0.tar.gz", hash = "sha256:392b34207bf95991071a16d5f8916d1d2f2cd5d5bb59ae2997485ccd778c70d9"},
+    {file = "mkdocs_glightbox-0.4.0-py3-none-any.whl", hash = "sha256:e0107beee75d3eb7380ac06ea2d6eac94c999eaa49f8c3cbab0e7be2ac006ccf"},
 ]
 
 [[package]]
