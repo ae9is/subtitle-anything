@@ -28,7 +28,7 @@ Subtitle Anything is:
 2. **Private:**
 *No data leaves your device. Subtitle Anything doesn't run translations on Google's (or any other) servers.*
 
-3. **Flexible**
+3. **Flexible:**
 *No site specific support: One extension. Any tab that plays audio. 99 languages plus autodetect.*
 
 <br />
