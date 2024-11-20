@@ -16,8 +16,9 @@
   On Linux, WebGPU support is experimental. You may need to enable some of these browser flags (at chrome://flags):
 
   - WebGPU
-  - Vulkan
   - Skia Graphite
+  - Vulkan
+  - Temporarily unexpire M130 flags (for Vulkan)
 
 ## Troubleshooting
 
