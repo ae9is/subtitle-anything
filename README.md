@@ -1,6 +1,5 @@
 <img src="docs/src/assets/logo.svg" height=100 alt="Subtitle Anything!" />
 
-<br />
 <hr />
 <br />
 
