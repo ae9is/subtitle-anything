@@ -1,10 +1,6 @@
-*Note: This is an early access Chrome extension that must be installed in development mode only! Expect changes and bug fixes.*
-
-<hr />
-<br />
-
 <img src="docs/src/assets/logo.svg" height=100 alt="Subtitle Anything!" />
 
+<br />
 <hr />
 <br />
 
@@ -34,6 +30,10 @@ Subtitle Anything is:
 <br />
 
 **Check out the docs! [subtitle-anything.com](https://www.subtitle-anything.com)**
+
+<br />
+
+<a href="https://chromewebstore.google.com/detail/subtitle-anything/ipfbhnkkjbafekefiifigffaelgffaed"><img src="docs/src/assets/download/chrome.png" height=50 alt="Available in the Chrome Web Store" /></a>
 
 <br />
 <hr />
