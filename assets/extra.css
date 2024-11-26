@@ -1,0 +1,73 @@
+/* https://tailwindcss.com/docs/ */
+.float-right {
+  float: right;
+}
+
+.mr-1 {
+  margin-right: 0.25rem;
+}
+
+.mr-2 {
+  margin-right: 0.5rem;
+}
+
+:root {
+  --md-primary-fg-color: black;
+  --md-primary-bg-color: white;
+  --md-primary-bg-color--light: white;
+  --md-accent-fg-color: hsla(24, 100%, 50%, 0.70);
+  --md-accent-fg-color--transparent: white;
+  --md-accent-bg-color: white;
+}
+
+[data-md-color-scheme="default"] {
+  --md-typeset-a-color: hsl(24, 100%, 50%);
+
+  .md-typeset .md-button {
+    color: black;
+    border-color: black;
+  }
+
+  .md-typeset .md-button:hover {
+    background-color: hsla(0, 0%, 50%, 0.5);
+  }
+
+  .md-typeset .md-button--primary {
+    color: white;
+    background-color: var(--md-typeset-a-color);
+    border-color: var(--md-typeset-a-color);
+  }
+
+  .md-typeset .md-button--primary:hover {
+    background-color: hsl(24, 100%, 50%, 0.70);
+    border-color: var(--md-typeset-a-color);
+  }
+}
+
+[data-md-color-scheme="slate"] {
+  --md-hue: 215;
+  --md-default-bg-color: #1f2937;
+  --md-typeset-color: white;
+  --md-typeset-a-color: hsl(24, 100%, 50%);
+  --md-primary-fg-color--dark: var(--md-footer-bg-color--dark);
+
+  .md-typeset .md-button {
+    color: white;
+    border-color: white;
+  }
+
+  .md-typeset .md-button:hover {
+    background-color: hsla(0, 0%, 100%, 0.30);
+  }
+
+  .md-typeset .md-button--primary {
+    color: unset;
+    background-color: var(--md-typeset-a-color);
+    border-color: var(--md-typeset-a-color);
+  }
+
+  .md-typeset .md-button--primary:hover {
+    background-color: hsl(24, 100%, 50%, 0.70);
+    border-color: var(--md-typeset-a-color);
+  }
+}
