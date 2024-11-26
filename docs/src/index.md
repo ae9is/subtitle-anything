@@ -25,6 +25,8 @@ Subtitle Anything is:
 
     > No site specific support: One extension. Any tab that plays audio. 99 languages plus autodetect.
 
+<a href="https://chromewebstore.google.com/detail/subtitle-anything/ipfbhnkkjbafekefiifigffaelgffaed">![Available in the Chrome Web Store](assets/download/chrome.png){: style="height: 75px; width: 248px" .skip-lightbox }</a>
+
 If you find Subtitle Anything useful and would like to see it brought to your browser's extension store, or to have new features, please show your support by leaving a star.
 
 Every star is appreciated! :star:

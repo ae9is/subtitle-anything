@@ -7,13 +7,21 @@
 
 ## Install
 
+### From the Chrome Web Store
+
+  1. [Add the extension here](https://chromewebstore.google.com/detail/subtitle-anything/ipfbhnkkjbafekefiifigffaelgffaed)
+
+  2. [Pin the extension to the toolbar](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#pin_the_extension)
+
+### From the GitHub ZIP release
+
   1. [Download the release ZIP file](https://github.com/ae9is/subtitle-anything/releases) and unzip it.
 
   2. [Follow these instructions to load the extension in Chrome](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#load-unpacked)
 
   3. [Pin the extension to the toolbar](https://developer.chrome.com/docs/extensions/get-started/tutorial/hello-world#pin_the_extension)
 
-  On Linux, WebGPU support is experimental. You may need to enable some of these browser flags (at chrome://flags):
+On Linux, WebGPU support is experimental. You may need to enable some of these browser flags (at chrome://flags):
 
   - WebGPU
   - Skia Graphite
