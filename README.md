@@ -41,3 +41,7 @@ Subtitle Anything is:
 If you find Subtitle Anything useful and would like to see it brought to your browser's extension store, or to have new features, please show your support by leaving a star.
 
 Every star is appreciated! ⭐
+
+Financial support is also greatly appreciated! As an extra thank you, supporters also gain access to the Alpha build on the Chrome store with some extra features.
+
+<a href="https://www.buymeacoffee.com/subtitle.anything" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

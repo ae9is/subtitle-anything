@@ -31,6 +31,10 @@ If you find Subtitle Anything useful and would like to see it brought to your br
 
 Every star is appreciated! :star:
 
+Financial support is also greatly appreciated! As an extra thank you, supporters also gain access to the Alpha build on the Chrome store with some extra features.
+
+<a href="https://www.buymeacoffee.com/subtitle.anything" target="_blank">![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png){: style="height: 60px !important;width: 217px !important" .skip-lightbox }</a>
+
 #####
 
 [Get started](install.md){ .md-button .md-button--primary .float-right }
